@@ -1,1 +1,2 @@
-[Policy](https://daktaapp.github.io/Dakta/policy)
+## Links
+### [Policy](https://daktaapp.github.io/Dakta/policy)
