@@ -1,2 +1,1 @@
-# Dakta
-iOS Application
+[Policy](https://daktaapp.github.io/Dakta/policy)
