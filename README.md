@@ -1,2 +1,2 @@
-# dakta
+# Dakta
 iOS APP
